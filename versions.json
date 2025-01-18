@@ -19,27 +19,4 @@
             "⚙️ Extensive configuration options"
         ]
     },
-    "emoji_guide": {
-        "✨": "New Feature",
-        "🐛": "Bug Fix",
-        "🔒": "Security",
-        "⚡": "Performance",
-        "💾": "Data/Storage",
-        "🗺️": "Map/Location",
-        "🔍": "Search/Recovery",
-        "📊": "Analytics/Logging",
-        "🌐": "Localization",
-        "🛡️": "Protection",
-        "🔄": "System Process",
-        "💰": "Economy",
-        "🎯": "Targeting",
-        "📦": "Inventory",
-        "🖥️": "Interface",
-        "⚙️": "Configuration",
-        "🔧": "Technical Changes",
-        "📚": "Documentation",
-        "♻️": "Refactor",
-        "🎨": "Style/UI",
-        "🚀": "Performance Improvement"
-    }
 }
