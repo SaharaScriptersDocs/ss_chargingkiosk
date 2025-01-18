@@ -1,6 +1,30 @@
 {
-    "latest": "1.1.6",
+    "latest": "1.1.7",
     "versions": {
+        "1.1.7": [
+            "🐛 Fixed UI lost phone component height",
+            "🐛 Fixed resource loading on start",
+            "🔨 Added more editable framework examples",
+            "🔨 Improved target entity handling",
+            "📚 Updated documentation and example files",
+            "🔄 Updated various module files and components",
+            "📝 Changed files:",
+            "- _EXAMPLES/framework/qbcore.lua",
+            "- _EXAMPLES/inventory/qb-inventory.lua",
+            "- _EXAMPLES/locales/en.lua",
+            "- _EXAMPLES/locales/fr.lua",
+            "- _EXAMPLES/notifications/qbcore.lua",
+            "- _EXAMPLES/target/qb-target.lua",
+            "- editable/client/notifications.lua",
+            "- editable/client/target.lua",
+            "- editable/server/framework.lua",
+            "- editable/server/inventory.lua",
+            "- editable/server/logger.lua",
+            "- modules/main/client.lua",
+            "- modules/target/client.lua",
+            "- modules/versionchecker/server.lua",
+            "- ui/*"
+        ],
         "1.1.6": [
             "✨ Initial release of Phone Charging Kiosk system",
             "🔒 Secure PIN system for phone storage",
@@ -18,5 +42,5 @@
             "🖥️ Modern NUI interface for kiosk interaction",
             "⚙️ Extensive configuration options"
         ]
-    },
+    }
 }
