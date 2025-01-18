@@ -1,5 +1,5 @@
 {
-    "latest": "1.1.3",
+    "latest": "1.1.5",
     "versions": {
         "1.1.3": [
             "✨ Initial release of Phone Charging Kiosk system",
@@ -13,10 +13,29 @@
             "🛡️ Rate limiting system to prevent abuse",
             "🔄 Automatic battery calculation system",
             "💰 Configurable payment methods (cash/bank)",
-            "🎯 Target integration for smooth interactions",
-            "📦 Inventory integration for phone items",
+            "🎯 ox_target integration for smooth interactions",
+            "📦 ox_inventory integration for phone items",
             "🖥️ Modern NUI interface for kiosk interaction",
             "⚙️ Extensive configuration options"
+        ],
+        "1.1.4": [
+            "🐛 Fixed pin validation not working correctly with special characters",
+            "🐛 Fixed incorrect battery calculation on server restart",
+            "🔧 Improved error messages for better troubleshooting",
+            "⚡ Optimized database queries for better performance",
+            "🎨 Added visual feedback when entering incorrect PIN",
+            "📊 Enhanced discord logging with more detailed information",
+            "🔒 Added additional validation for phone ownership"
+        ],
+        "1.1.5": [
+            "✨ Added emergency charging feature for police/ems (20% instant charge)",
+            "✨ New premium charging stations with custom animations",
+            "🎨 Redesigned UI with dark mode support",
+            "⚡ Reduced server load by optimizing version checker",
+            "🐛 Fixed phone occasionally getting stuck in kiosk",
+            "🔧 Added automatic cleanup for orphaned phone data",
+            "📚 Updated documentation with new configuration examples",
+            "🌐 Added French and Spanish translations"
         ]
     },
     "emoji_guide": {
