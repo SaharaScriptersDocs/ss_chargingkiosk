@@ -1,1 +1,1 @@
-# ss_chargingkiosk
+# ss_chargingkiosk documentation repo
