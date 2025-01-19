@@ -1,6 +1,11 @@
 {
-    "latest": "1.1.8",
+    "latest": "1.1.9",
     "versions": {
+        "1.1.9": [
+            "🐛 Changed deleteEntity to Delete Object and delete Ped",
+            "📝 Changed files:",
+            "- modules/target/client.lua"
+        ],
         "1.1.8": [
             "🐛 Fixed trace cleanup",
             "🐛 Fixed escrow ignore",
