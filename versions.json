@@ -1,6 +1,11 @@
 {
-    "latest": "1.1.9",
+    "latest": "1.2.0",
     "versions": {
+        "1.2.0": [
+            "🔨 Added qb-inventory example",
+            "📝 Changed files:",
+            "- _EXAMPLES/inventory/qb-inventory.lua"
+        ],
         "1.1.9": [
             "🐛 Changed deleteEntity to Delete Object and delete Ped",
             "📝 Changed files:",
