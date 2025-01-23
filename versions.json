@@ -1,6 +1,9 @@
 {
-    "latest": "1.2.0",
+    "latest": "1.2.1",
     "versions": {
+        "1.2.1": [
+            "🔨 Added qb core full support",
+        ],
         "1.2.0": [
             "🔨 Added qb-inventory example",
             "📝 Changed files:",
