@@ -3,8 +3,8 @@ An advanced **Phone Charging System** for FiveM servers, designed with seamless 
 ## 💵 **Pricing**
 
 This script is available for purchase with two options:
-- **Lifetime License:** One-time payment ([CLICK HERE])(https://saharascripters.tebex.io/package/6638341)
-- **Monthly Subscription:** Monthly payments ([CLICK HERE])(https://saharascripters.tebex.io/package/6640827) 
+- **Lifetime License:** One-time payment ([CLICK HERE](https://saharascripters.tebex.io/package/6638341))
+- **Monthly Subscription:** Monthly payments ([CLICK HERE](https://saharascripters.tebex.io/package/6640827)) 
 
 ## ▶️**Showcase**
 
