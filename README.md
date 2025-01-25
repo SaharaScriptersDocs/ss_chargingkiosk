@@ -23,7 +23,6 @@ This script is available for purchase with two options:
 
 - This script is not a phone script; you must purchase [**lb-phone**](https://lbscripts.com/phone) separately for it to function.
 - The script is encrypted using the <u>FiveM Asset Escrow</u> system.
-- If you are subscribed to the monthly plan, please wait for your current subscription to expire before purchasing the lifetime.
 
 ## **✨Features**
 
@@ -40,29 +39,16 @@ This script is available for purchase with two options:
 
 ## 🔗**Dependencies**
 
-To function correctly, the following resources are required:
-
+- [**qbx\_core**](https://github.com/Qbox-project/qbx_core) or [**qb-core**](https://github.com/qbcore-framework/qb-core)
+- [**ox\_target**](https://github.com/overextended/ox_target)  or [**qb-target**](https://github.com/qbcore-framework/qb-target)
+- [**ox\_inventory**](https://github.com/overextended/ox_inventory) or [**qb-inventory**](https://github.com/qbcore-framework/qb-inventory)
 - [**lb-phone**](https://lbscripts.com/phone)
 - [**ox\_lib**](https://github.com/overextended/ox_lib)
 - [**oxmysql**](https://github.com/overextended/oxmysql)
 
-## 🪝**Supported Frameworks**
-
-The script is flexible and can be edited to work with other resources:
-
-- [**qbx\_core**](https://github.com/Qbox-project/qbx_core) or [**qb-core**](https://github.com/qbcore-framework/qb-core)
-
-## 🪝**Supported Targeting Resources**
-
-- [**ox\_target**](https://github.com/overextended/ox_target)  or [**qb-target**](https://github.com/qbcore-framework/qb-target)
-
-## 🪝**Supported Inventories**
-
-- [**ox\_inventory**](https://github.com/overextended/ox_inventory) or [**qb-inventory**](https://github.com/qbcore-framework/qb-inventory)
-
 ## 📖**Documentation**
 
-Access our [**Documentation**](https://saharascripters.gitbook.io/docs) to help you get the most out of our products.
+Check out our [**Documentation**](https://saharascripters.gitbook.io/docs) for detailed setup and configuration.
 
 ## 🔌**Our Discord**
 
