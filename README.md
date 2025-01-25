@@ -1,4 +1,6 @@
-An advanced **Phone Charging System** for FiveM servers, designed with seamless [**lb-phone**](https://lbscripts.com/phone) integration.
+# ⚡Phone Charging Kiosk
+
+A **Phone Charging System** for FiveM servers, designed with compatible [**lb-phone**](https://lbscripts.com/phone) integration.
 
 ## 💵 **Pricing**
 
