@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://discord.gg/kQxzuyqnkR">
+    <img src="https://discordapp.com/api/guilds/882172298059190282/widget.png?style=banner2" alt="Discord Server">
+  </a>
+</div>
+
 # ⚡Phone Charging Kiosk
 
 A **Phone Charging System** for FiveM servers, designed with compatible [**lb-phone**](https://lbscripts.com/phone) integration.
@@ -61,3 +67,5 @@ Access our [**Documentation**](https://saharascripters.gitbook.io/docs) to help 
 ## 🔌**Our Discord**
 
 Feel free to join our Discord [**Sahara Scripters**](https://discord.com/invite/vm7uBx56bk) for inquiries and support.
+
+[![Need Help?](https://cdn.imgpile.com/f/yryoDqk_xl.png)](https://discord.gg/kQxzuyqnkR)
